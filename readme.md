@@ -11,12 +11,6 @@ for auto swap 0g testnet
 - Swap USDT/BTC
 - Swap BTC/USDT
 
-## Requirements
-
-- NodeJS [Download](https://nodejs.org/en/download).
-- 0g Tesnet [Here](https://hub.0g.ai/portfolio/token).
-- 0g Faucet [Here](https://hub.0g.ai/faucet)
-- Proxy (Optional).
 
 ## Installation
 
@@ -59,20 +53,3 @@ for auto swap 0g testnet
 npm run start
 ```
 
-## Stay Connected
-
-- Channel Telegram : [Telegram](https://t.me/elpuqus)
-- Channel WhatsApp : [Whatsapp](https://whatsapp.com/channel/0029VavBRhGBqbrEF9vxal1R)
-- Discord : [Discord](https://discord.com/invite/uKM4UCAccY)
-
-## Donation
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- Solana: `5jQMndHzWVH8MCitXdUEYmshJZXVKCzUG12mxJku4WdX`
-- EVM: `0x72120c3c9cf3fee3ad57a34d5fcdbffe45f4ff28`
-- BTC: `bc1ppfl3w3l4spnda7lawlhlycwuq2ekz74c936c8emwfprfu9hyun6sq5k6xl`
-
-## Disclaimer
-
-This tool is for educational purposes only. Use it at your own risk.
