@@ -17,8 +17,8 @@ for auto swap 0g testnet
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/0g-bot.git
-   cd 0g-bot
+   https://github.com/Chihiroryuu/0g-tx.git
+   cd 0g-tx
    ```
 
 2. Instal Packages and build packages:
